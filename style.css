@@ -1,0 +1,37 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #5cd5cd;
+}
+
+div.container{
+    background: #f56ade;
+    padding: 20px 50px 50px 50px;
+    border: 5px solid #94295b;
+}
+div#table {
+    background: #f9d2e5;    
+}
+table {
+    padding: 5px;
+    text-align: center;
+    border: 0px;
+    width: 1000px;
+}
+table td { 
+    background: white;
+    border-radius: 7px;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #ef1eef;
+}
+h2 {
+    text-align: center;
+    font-family: serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #b6086d;
+    padding-bottom: 20px;
+}
